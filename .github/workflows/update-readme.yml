@@ -1,0 +1,29 @@
+name: Update README
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Clone repository
+      uses: actions/checkout@v2
+    - name: Install fortune & cowsay
+      shell: bash
+      run: |
+        sudo apt update -y
+        sudo apt install -y cowsay fortune
+    - name: Echo
+      run: |
+        rm README.md
+        echo '```' >> README.md
+        /usr/games/fortune | /usr/games/cowsay >> README.md
+        echo '```' >> README.md
+    - name: Push changes
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: "Update README by bot"
