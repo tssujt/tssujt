@@ -1,8 +1,8 @@
 ```
- _______________________________________
-/ There will be big changes for you but \
-\ you will be happy.                    /
- ---------------------------------------
+ _________________________________________
+/ Your depth of comprehension may tend to \
+\ make you lax in worldly ways.           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
