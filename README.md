@@ -1,10 +1,8 @@
 ```
- ______________________________________
-/ When one burns one's bridges, what a \
-| very nice fire it makes.             |
-|                                      |
-\ -- Dylan Thomas                      /
- --------------------------------------
+ ________________________________
+/ Your business will assume vast \
+\ proportions.                   /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
