@@ -1,10 +1,9 @@
 ```
- ______________________________________
-/ O, what a tangled web we weave, When \
-| first we practice to deceive.        |
-|                                      |
-\ -- Sir Walter Scott, "Marmion"       /
- --------------------------------------
+ _____________________________________
+/ Q: How do you stop an elephant from \
+| charging? A: Take away his credit   |
+\ cards.                              /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
