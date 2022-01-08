@@ -1,9 +1,11 @@
 ```
- _____________________________________
-/ Q: How do you stop an elephant from \
-| charging? A: Take away his credit   |
-\ cards.                              /
- -------------------------------------
+ _________________________________________
+/ Q: What's the difference between a dead \
+| dog in the road and a dead              |
+|                                         |
+| lawyer in the road? A: There are skid   |
+\ marks in front of the dog.              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
