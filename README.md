@@ -1,10 +1,13 @@
 ```
  _________________________________________
-/ Q: What's the difference between a dead \
-| dog in the road and a dead              |
+/ In India, "cold weather" is merely a    \
+| conventional phrase and has come into   |
+| use through the necessity of having     |
+| some way to distinguish between weather |
+| which will melt a brass door-knob and   |
+| weather which will only make it mushy.  |
 |                                         |
-| lawyer in the road? A: There are skid   |
-\ marks in front of the dog.              /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
