@@ -1,9 +1,8 @@
 ```
- _________________________________________
-/ You may worry about your hair-do today, \
-| but tomorrow much peanut butter will be |
-\ sold.                                   /
- -----------------------------------------
+ ______________________________________
+/ Try to value useful qualities in one \
+\ who loves you.                       /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
