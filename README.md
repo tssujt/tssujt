@@ -1,8 +1,11 @@
 ```
- ______________________________________
-/ Expect the worst, it's the least you \
-\ can do.                              /
- --------------------------------------
+ ____________________________________
+/ The last thing one knows in        \
+| constructing a work is what to put |
+| first.                             |
+|                                    |
+\ -- Blaise Pascal                   /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
