@@ -1,8 +1,8 @@
 ```
- ________________________________________
-/ You will inherit some money or a small \
-\ piece of land.                         /
- ----------------------------------------
+ ______________________________________
+/ Don't tell any big lies today. Small \
+\ ones can be just as effective.       /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
