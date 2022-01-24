@@ -1,10 +1,10 @@
 ```
- _________________________________________
-/ He that breaks a thing to find out what \
-| it is has left the path of wisdom.      |
-|                                         |
-\ -- J.R.R. Tolkien                       /
- -----------------------------------------
+ ______________________________________
+/ Every why hath a wherefore.          \
+|                                      |
+| -- William Shakespeare, "A Comedy of |
+\ Errors"                              /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
