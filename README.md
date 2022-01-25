@@ -1,10 +1,11 @@
 ```
- ______________________________________
-/ Every why hath a wherefore.          \
-|                                      |
-| -- William Shakespeare, "A Comedy of |
-\ Errors"                              /
- --------------------------------------
+ _______________________________________
+/ Sometimes I wonder if I'm in my right \
+| mind. Then it passes off and I'm as   |
+| intelligent as ever.                  |
+|                                       |
+\ -- Samuel Beckett, "Endgame"          /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
