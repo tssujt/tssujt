@@ -1,6 +1,8 @@
 ```
  ________________________________________
-< Your supervisor is thinking about you. >
+/ Q: Why do firemen wear red suspenders? \
+| A: To conform with departmental        |
+\ regulations concerning uniform dress.  /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
