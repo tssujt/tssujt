@@ -1,9 +1,12 @@
 ```
- ________________________________________
-/ Q: Why do firemen wear red suspenders? \
-| A: To conform with departmental        |
-\ regulations concerning uniform dress.  /
- ----------------------------------------
+ _________________________________________
+/ Q: How many mathematicians does it take \
+| to screw in a light bulb? A: One. He    |
+| gives it to six Californians, thereby   |
+| reducing the problem                    |
+|                                         |
+\ to the earlier joke.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
