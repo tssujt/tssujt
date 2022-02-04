@@ -1,9 +1,9 @@
 ```
- _____________________________________
-/ You're growing out of some of your  \
-| problems, but there are others that |
-\ you're growing into.                /
- -------------------------------------
+ _________________________________________
+/ You'll feel devilish tonight. Toss      \
+| dynamite caps under a flamenco dancer's |
+\ heel.                                   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
