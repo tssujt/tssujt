@@ -1,9 +1,10 @@
 ```
- _________________________________________
-/ You'll feel devilish tonight. Toss      \
-| dynamite caps under a flamenco dancer's |
-\ heel.                                   /
- -----------------------------------------
+ _______________________________________
+/ I dote on his very absence.           \
+|                                       |
+| -- William Shakespeare, "The Merchant |
+\ of Venice"                            /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
