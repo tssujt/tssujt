@@ -1,10 +1,8 @@
 ```
- ________________________________________
-/ Never laugh at live dragons.           \
-|                                        |
-| -- Bilbo Baggins [J.R.R. Tolkien, "The |
-\ Hobbit"]                               /
- ----------------------------------------
+ ___________________________________
+/ Be security conscious -- National \
+\ defense is at stake.              /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
