@@ -1,8 +1,11 @@
 ```
- ___________________________________
-/ Be security conscious -- National \
-\ defense is at stake.              /
- -----------------------------------
+ _______________________________________
+/ The devil can cite Scripture for his  \
+| purpose.                              |
+|                                       |
+| -- William Shakespeare, "The Merchant |
+\ of Venice"                            /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
