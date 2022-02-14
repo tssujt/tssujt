@@ -1,11 +1,7 @@
 ```
- _______________________________________
-/ You never have to change anything you \
-| got up in the middle of the night to  |
-| write.                                |
-|                                       |
-\ -- Saul Bellow                        /
- ---------------------------------------
+ ________________________________________
+< The time is right to make new friends. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
