@@ -1,8 +1,8 @@
 ```
- ________________________________________
-/ You possess a mind not merely twisted, \
-\ but actually sprained.                 /
- ----------------------------------------
+ ______________________________________
+/ Abandon the search for Truth; settle \
+\ for a good fantasy.                  /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
