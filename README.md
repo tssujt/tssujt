@@ -1,9 +1,7 @@
 ```
- _______________________________________
-/ Tomorrow, this will be part of the    \
-| unchangeable past but fortunately, it |
-\ can still be changed today.           /
- ---------------------------------------
+ ___________________________________
+< You will outgrow your usefulness. >
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
