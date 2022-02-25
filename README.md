@@ -1,8 +1,8 @@
 ```
- ________________________________________
-/ You will obey or molten silver will be \
-\ poured into your ears.                 /
- ----------------------------------------
+ _____________________________________
+/ Don't you feel more like you do now \
+\ than you did when you came in?      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
