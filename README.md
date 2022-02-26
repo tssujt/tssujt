@@ -1,8 +1,8 @@
 ```
- _____________________________________
-/ Don't you feel more like you do now \
-\ than you did when you came in?      /
- -------------------------------------
+ ________________________________________
+/ Your business will go through a period \
+\ of considerable expansion.             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
