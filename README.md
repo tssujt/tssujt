@@ -1,8 +1,9 @@
 ```
- ________________________________________
-/ Your business will go through a period \
-\ of considerable expansion.             /
- ----------------------------------------
+ _____________________________________
+/ For courage mounteth with occasion. \
+|                                     |
+\ -- William Shakespeare, "King John" /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
