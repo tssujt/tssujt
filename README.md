@@ -1,8 +1,10 @@
 ```
- _________________________________________
-/ Your boss climbed the corporate ladder, \
-\ wrong by wrong.                         /
- -----------------------------------------
+ ________________________________
+/ All generalizations are false, \
+| including this one.            |
+|                                |
+\ -- Mark Twain                  /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
