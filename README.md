@@ -1,11 +1,8 @@
 ```
- ________________________________________
-/ Q: What do you call a WASP who doesn't \
-| work for his father, isn't a           |
-|                                        |
-| lawyer, and believes in social causes? |
-\ A: A failure.                          /
- ----------------------------------------
+ ______________________________________
+/ You look like a million dollars. All \
+\ green and wrinkled.                  /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
