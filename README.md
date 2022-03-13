@@ -1,8 +1,10 @@
 ```
- ______________________________________
-/ You look like a million dollars. All \
-\ green and wrinkled.                  /
- --------------------------------------
+ _______________________________________
+/ Q: What do monsters eat? A: Things.   \
+|                                       |
+| Q: What do monsters drink? A: Coke.   |
+\ (Because Things go better with Coke.) /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
