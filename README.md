@@ -1,10 +1,7 @@
 ```
  _______________________________________
-/ You never have to change anything you \
-| got up in the middle of the night to  |
-| write.                                |
-|                                       |
-\ -- Saul Bellow                        /
+/ Many changes of mind and mood; do not \
+\ hesitate too long.                    /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
