@@ -1,8 +1,8 @@
 ```
- ____________________________________
-/ Q: Do you know what the death rate \
-\ around here is? A: One per person. /
- ------------------------------------
+ _______________________________________
+/ You will reach the highest possible   \
+\ point in your business or profession. /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
