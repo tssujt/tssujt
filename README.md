@@ -1,10 +1,7 @@
 ```
  ________________________________________
-/ No group of professionals meets except \
-| to conspire against the public at      |
-| large.                                 |
-|                                        |
-\ -- Mark Twain                          /
+/ Tomorrow will be cancelled due to lack \
+\ of interest.                           /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
