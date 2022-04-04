@@ -1,8 +1,8 @@
 ```
- _________________________________
-/ You will engage in a profitable \
-\ business activity.              /
- ---------------------------------
+ _________________________________________
+/ If you stand on your head, you will get \
+\ footprints in your hair.                /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
