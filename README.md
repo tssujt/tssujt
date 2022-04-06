@@ -1,8 +1,8 @@
 ```
- _______________________________________
-/ A visit to a strange place will bring \
-\ fresh work.                           /
- ---------------------------------------
+ _________________________________________
+/ Don't look now, but there is a          \
+\ multi-legged creature on your shoulder. /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
