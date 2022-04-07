@@ -1,7 +1,10 @@
 ```
  _________________________________________
-/ Don't look now, but there is a          \
-\ multi-legged creature on your shoulder. /
+/ FORTUNE PROVIDES QUESTIONS FOR THE      \
+| GREAT ANSWERS: #5 A: The Halls of       |
+| Montezuma and the Shores of Tripoli. Q: |
+| Name two families whose kids won't join |
+\ the Marines.                            /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
