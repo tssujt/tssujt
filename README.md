@@ -1,10 +1,12 @@
 ```
- _________________________________________
-/ Seeing that death, a necessary end,     \
-| Will come when it will come.            |
-|                                         |
-\ -- William Shakespeare, "Julius Caesar" /
- -----------------------------------------
+ ________________________________________
+/ Why is it that we rejoice at a birth   \
+| and grieve at a funeral? It is because |
+| we are not the person involved.        |
+|                                        |
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
