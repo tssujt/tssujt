@@ -1,13 +1,8 @@
 ```
- _______________________________________
-/ For years a secret shame destroyed my \
-| peace-- I'd not read Eliot, Auden or  |
-| MacNiece. But now I think a thought   |
-| that brings me hope: Neither had      |
-| Chaucer, Shakespeare, Milton, Pope.   |
-|                                       |
-\ -- Justin Richardson.                 /
- ---------------------------------------
+ ______________________________________
+/ Never be led astray onto the path of \
+\ virtue.                              /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
