@@ -1,9 +1,8 @@
 ```
- _______________________________________
-/ English literature's performing flea. \
-|                                       |
-\ -- Sean O'Casey on P. G. Wodehouse    /
- ---------------------------------------
+ __________________________________
+/ Your love life will be happy and \
+\ harmonious.                      /
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
