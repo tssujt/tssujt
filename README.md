@@ -1,9 +1,9 @@
 ```
- _____________________________________
-/ You learn to write as if to someone \
-| else because NEXT YEAR YOU WILL BE  |
-\ "SOMEONE ELSE."                     /
- -------------------------------------
+ _________________________________________
+/ You are wise, witty, and wonderful, but \
+| you spend too much time reading this    |
+\ sort of trash.                          /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
