@@ -1,8 +1,9 @@
 ```
- _______________________________________
-/ You will meet an important person who \
-\ will help you advance professionally. /
- ---------------------------------------
+ _________________________________________
+/ Q: What's the difference between a duck \
+| and an elephant? A: You can't get down  |
+\ off an elephant.                        /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
