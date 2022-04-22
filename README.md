@@ -1,8 +1,9 @@
 ```
  _________________________________________
-/ Q: What's the difference between a duck \
-| and an elephant? A: You can't get down  |
-\ off an elephant.                        /
+/  A man was reading The Canterbury Tales \
+| one Saturday morning, when his wife     |
+| asked "What have you got there?"        |
+\ Replied he, "Just my cup and Chaucer."  /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
