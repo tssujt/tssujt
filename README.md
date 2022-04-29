@@ -1,8 +1,8 @@
 ```
- ________________________________________
-/ Don't go surfing in South Dakota for a \
-\ while.                                 /
- ----------------------------------------
+ _______________________________________
+/ You seek to shield those you love and \
+\ you like the role of the provider.    /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
