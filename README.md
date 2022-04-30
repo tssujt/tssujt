@@ -1,8 +1,9 @@
 ```
- _______________________________________
-/ You seek to shield those you love and \
-\ you like the role of the provider.    /
- ---------------------------------------
+ _________________________________________
+/ Q: What's the difference between an     \
+| Irish wedding and an Irish wake? A: One |
+\ less drunk.                             /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
