@@ -1,9 +1,10 @@
 ```
- ______________________________________
-/ Q: How many marketing people does it \
-| take to change a light bulb? A: I'll |
-\ have to get back to you on that.     /
- --------------------------------------
+ _______________________________________
+/ Q: How many IBM CPU's does it take to \
+| do a logical right shift? A: 33. 1 to |
+| hold the bits and 32 to push the      |
+\ register.                             /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
