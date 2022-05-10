@@ -1,8 +1,12 @@
 ```
- _________________________________________
-/ A gift of a flower will soon be made to \
-\ you.                                    /
- -----------------------------------------
+ _______________________________________
+/ The difference between the right word \
+| and the almost right word is the      |
+| difference between lightning and the  |
+| lightning bug.                        |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
