@@ -1,12 +1,8 @@
 ```
- _______________________________________
-/ The difference between the right word \
-| and the almost right word is the      |
-| difference between lightning and the  |
-| lightning bug.                        |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ______________________________________
+/ You are a fluke of the universe; you \
+\ have no right to be here.            /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
