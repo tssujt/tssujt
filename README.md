@@ -1,8 +1,12 @@
 ```
- ______________________________________
-/ You are a fluke of the universe; you \
-\ have no right to be here.            /
- --------------------------------------
+ ________________________________________
+/ Consider well the proportions of       \
+| things. It is better to be a young     |
+| June-bug than an old bird of paradise. |
+|                                        |
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
