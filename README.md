@@ -1,7 +1,9 @@
 ```
- _____________________________
-< Do not overtax your powers. >
- -----------------------------
+ _______________________________________
+/ Tomorrow, this will be part of the    \
+| unchangeable past but fortunately, it |
+\ can still be changed today.           /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
