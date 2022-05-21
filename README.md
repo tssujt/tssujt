@@ -1,7 +1,7 @@
 ```
  ________________________________________
-/ Let me put it this way: today is going \
-\ to be a learning experience.           /
+/ You will inherit some money or a small \
+\ piece of land.                         /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
