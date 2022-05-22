@@ -1,8 +1,8 @@
 ```
- ________________________________________
-/ You will inherit some money or a small \
-\ piece of land.                         /
- ----------------------------------------
+ _________________________________________
+/ And do you think (fop that I am) that I \
+\ could be the Scarlet Pumpernickel?      /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
