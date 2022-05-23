@@ -1,7 +1,7 @@
 ```
  _________________________________________
-/ And do you think (fop that I am) that I \
-\ could be the Scarlet Pumpernickel?      /
+/ You have a deep interest in all that is \
+\ artistic.                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
