@@ -1,7 +1,6 @@
 ```
  _________________________________________
-/ You have a deep interest in all that is \
-\ artistic.                               /
+< Bank error in your favor. Collect $200. >
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
