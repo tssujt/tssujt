@@ -1,7 +1,9 @@
 ```
- _________________________________________
-< Bank error in your favor. Collect $200. >
- -----------------------------------------
+ ______________________________________
+/ You'll never see all the places, or  \
+| read all the books, but fortunately, |
+\ they're not all recommended.         /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
