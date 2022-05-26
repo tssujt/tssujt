@@ -1,9 +1,8 @@
 ```
- ______________________________________
-/ You'll never see all the places, or  \
-| read all the books, but fortunately, |
-\ they're not all recommended.         /
- --------------------------------------
+ ____________________________________
+/ You have many friends and very few \
+\ living enemies.                    /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
