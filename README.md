@@ -1,12 +1,8 @@
 ```
- ________________________________________
-/ There is always one thing to remember: \
-| writers are always selling somebody    |
-| out.                                   |
-|                                        |
-| -- Joan Didion, "Slouching Towards     |
-\ Bethlehem"                             /
- ----------------------------------------
+ ______________________________________
+/ Are you making all this up as you go \
+\ along?                               /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
