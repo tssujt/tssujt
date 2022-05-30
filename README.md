@@ -1,7 +1,8 @@
 ```
  ______________________________________
-/ Are you making all this up as you go \
-\ along?                               /
+/ You plan things that you do not even \
+| attempt because of your extreme      |
+\ caution.                             /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
