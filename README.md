@@ -1,8 +1,8 @@
 ```
- _____________________________________
-/ Do what comes naturally. Seethe and \
-\ fume and throw a tantrum.           /
- -------------------------------------
+ ______________________________________
+/ Another good night not to sleep in a \
+\ eucalyptus tree.                     /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
