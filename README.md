@@ -1,10 +1,7 @@
 ```
  _________________________________________
-/ If more of us valued food and cheer and \
-| song above hoarded gold, it would be a  |
-| merrier world.                          |
-|                                         |
-\ -- J.R.R. Tolkien                       /
+/ You will experience a strong urge to do \
+\ good; but it will pass.                 /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
