@@ -1,8 +1,8 @@
 ```
- _________________________________________
-/ You will experience a strong urge to do \
-\ good; but it will pass.                 /
- -----------------------------------------
+ ______________________________________
+/ Your own qualities will help prevent \
+\ your advancement in the world.       /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
