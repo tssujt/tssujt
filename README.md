@@ -1,7 +1,7 @@
 ```
  ______________________________________
-/ Your own qualities will help prevent \
-\ your advancement in the world.       /
+/ You love your home and want it to be \
+\ beautiful.                           /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
