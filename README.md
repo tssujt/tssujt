@@ -1,9 +1,7 @@
 ```
- _______________________________________
-/ Q: Why did the programmer call his    \
-| mother long distance? A: Because that |
-\ was her name.                         /
- ---------------------------------------
+ ________________________________
+< You will be run over by a bus. >
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
