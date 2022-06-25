@@ -1,8 +1,8 @@
 ```
- ______________________________________
-/ Your own qualities will help prevent \
-\ your advancement in the world.       /
- --------------------------------------
+ _________________________________________
+/ Today is the tomorrow you worried about \
+\ yesterday.                              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
