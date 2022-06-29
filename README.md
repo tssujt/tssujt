@@ -1,8 +1,10 @@
 ```
- _______________________________________
-/ There will be big changes for you but \
-\ you will be happy.                    /
- ---------------------------------------
+ ________________________________________
+/ Alas, how love can trifle with itself! \
+|                                        |
+| -- William Shakespeare, "The Two       |
+\ Gentlemen of Verona"                   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
