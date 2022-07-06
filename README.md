@@ -1,9 +1,8 @@
 ```
- ____________________________________
-/ Talkers are no good doers.         \
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ ________________________________________
+/ Increased knowledge will help you now. \
+\ Have mate's phone bugged.              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
