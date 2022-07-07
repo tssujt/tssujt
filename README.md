@@ -1,8 +1,9 @@
 ```
- ________________________________________
-/ Increased knowledge will help you now. \
-\ Have mate's phone bugged.              /
- ----------------------------------------
+ _________________________________________
+/ Q: What do Winnie the Pooh and John the \
+| Baptist have in common? A: The same     |
+\ middle name.                            /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
