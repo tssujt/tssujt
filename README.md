@@ -1,9 +1,12 @@
 ```
- _________________________________________
-/ Q: What do Winnie the Pooh and John the \
-| Baptist have in common? A: The same     |
-\ middle name.                            /
- -----------------------------------------
+ ________________________________________
+/ A banker is a fellow who lends you his \
+| umbrella when the sun is shining and   |
+| wants it back the minute it begins to  |
+| rain.                                  |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
