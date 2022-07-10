@@ -1,10 +1,7 @@
 ```
  _________________________________________
-/ Q: How does a hacker fix a function     \
-| which                                   |
-|                                         |
-| doesn't work for all of the elements in |
-\ its domain? A: He changes the domain.   /
+/ It may or may not be worthwhile, but it \
+\ still has to be done.                   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
