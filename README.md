@@ -1,7 +1,7 @@
 ```
  ________________________________________
-/ You've been leading a dog's life. Stay \
-\ off the furniture.                     /
+/ Try the Moo Shu Pork. It is especially \
+\ good today.                            /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
