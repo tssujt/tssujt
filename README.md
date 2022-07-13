@@ -1,7 +1,9 @@
 ```
  ________________________________________
-/ Try the Moo Shu Pork. It is especially \
-\ good today.                            /
+/ Rebellion lay in his way, and he found \
+| it.                                    |
+|                                        |
+\ -- William Shakespeare, "Henry IV"     /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
