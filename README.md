@@ -1,9 +1,11 @@
 ```
  ________________________________________
-/ Rebellion lay in his way, and he found \
-| it.                                    |
+/ There is always one thing to remember: \
+| writers are always selling somebody    |
+| out.                                   |
 |                                        |
-\ -- William Shakespeare, "Henry IV"     /
+| -- Joan Didion, "Slouching Towards     |
+\ Bethlehem"                             /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
