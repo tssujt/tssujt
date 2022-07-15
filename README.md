@@ -1,12 +1,10 @@
 ```
- ________________________________________
-/ There is always one thing to remember: \
-| writers are always selling somebody    |
-| out.                                   |
-|                                        |
-| -- Joan Didion, "Slouching Towards     |
-\ Bethlehem"                             /
- ----------------------------------------
+ ____________________________________
+/ The smallest worm will turn being  \
+| trodden on.                        |
+|                                    |
+\ -- William Shakespeare, "Henry VI" /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
