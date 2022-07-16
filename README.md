@@ -1,10 +1,8 @@
 ```
- ____________________________________
-/ The smallest worm will turn being  \
-| trodden on.                        |
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ _____________________________________
+/ You'll never be the man your mother \
+\ was!                                /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
