@@ -1,8 +1,8 @@
 ```
- ____________________________________
-/ After your lover has gone you will \
-\ still have PEANUT BUTTER!          /
- ------------------------------------
+ ________________________________
+/ You may get an opportunity for \
+\ advancement today. Watch it!   /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
