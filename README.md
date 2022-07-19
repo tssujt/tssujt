@@ -1,7 +1,6 @@
 ```
  ________________________________
-/ You may get an opportunity for \
-\ advancement today. Watch it!   /
+< It's all in the mind, ya know. >
  --------------------------------
         \   ^__^
          \  (oo)\_______
