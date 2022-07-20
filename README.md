@@ -1,7 +1,10 @@
 ```
- ________________________________
-< It's all in the mind, ya know. >
- --------------------------------
+ ________________________________________
+/ Q: What do you call the scratches that \
+| you get when a female                  |
+|                                        |
+\ sheep bites you? A: Ewe nicks.         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
