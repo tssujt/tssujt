@@ -1,10 +1,11 @@
 ```
- ________________________________________
-/ Q: What do you call the scratches that \
-| you get when a female                  |
-|                                        |
-\ sheep bites you? A: Ewe nicks.         /
- ----------------------------------------
+ _______________________________________
+/ There are more things in heaven and   \
+| earth, Horatio, than are dreamt of in |
+| your philosophy.                      |
+|                                       |
+\ -- Wm. Shakespeare, "Hamlet"          /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
